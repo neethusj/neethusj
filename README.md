@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Neethu Susan Jacob 👋
 
-<!--
-**neethusj/neethusj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Developer | Machine Learning | Generative AI | RAG
 
-Here are some ideas to get you started:
+I'm transitioning from Computer Science education into AI/ML development, with hands-on experience building Machine Learning, Deep Learning, and Generative AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- TensorFlow / Keras
+- Generative AI
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Streamlit
+- Hugging Face
+- Scikit-learn
+- Pandas & NumPy
+- Git & GitHub
+
+### 🚀 Projects
+
+- **Credit Card Fraud Detection** — XGBoost + Streamlit
+- **Facial Expression Recognition** — CNN / Transfer Learning
+- **Insurance RAG Chatbot** — LangChain + FAISS + LLM
+
+### 📚 Currently Learning
+
+- Agentic AI
+- AI Agent Development
+- Generative AI
+
+### 🎯 Career Goal
+
+Seeking entry-level AI/ML Developer opportunities where I can apply my skills, contribute to real-world AI solutions, and continue growing as an AI professional.
